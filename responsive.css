@@ -1,3 +1,5 @@
+/*TABLET*/
+
 @media (max-width:1000px)
 {
     header{
@@ -9,4 +11,11 @@
     .content{
         width:50%;
     }
+    
+    .header span{
+        display:block;
+    }
+    
+    footer{
+        text-align:center;
 }
