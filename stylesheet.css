@@ -162,11 +162,11 @@ header{
   }
 
   .footer-list a{
-      font-size:12px;
+    font-size:12px;
     text-decoration: none;
     color:white;
     float:right;
-    padding:30px;
+    padding:15px;
     opacity:0.8;
   }
 
