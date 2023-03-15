@@ -94,20 +94,18 @@ header{
   }
 
   .content{
-    padding:0px;
     float:left;
-    width:25%;
     text-align: center;
     margin-bottom:80px;
+    width: 25%;
+  }
+
+  .contents-icon img{
+    height:360px;
   }
 
   .heading h2{
     margin:40px 0;
-  }
-
-  img{
-    width:300px;
-    height:420px;
   }
 
   .contents-icon a{
