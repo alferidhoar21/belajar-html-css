@@ -5,7 +5,7 @@
 }
 
 @media all and (max-width:670px){
-    body{
+    body, header{
        width:100%
     }
     
