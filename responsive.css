@@ -1,6 +1,9 @@
 @media (max-width:1000px)
 {
-    .header-list a, .subscribe{
+    header{
+        width:100%;
+    }
+    .header-list, .subscribe{
         display:none;
     }
 }
