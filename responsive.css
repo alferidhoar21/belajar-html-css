@@ -23,3 +23,10 @@
     footer{
         text-align:center;
 }
+   
+    .footer-list a{
+        text-decoration: none;
+        color:white;
+        float:right;
+        padding:30px;
+}
