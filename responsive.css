@@ -24,11 +24,11 @@
     float:left;
     font-size: 24px;
     text-align: left;
+    padding-bottom:20px;
   }   
 
   .footer-list a{
     font-size:12px;
     color:white;
     float:right;
-    padding-bottom:20px;
   }
