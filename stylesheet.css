@@ -26,15 +26,6 @@ header{
     font-weight: bold;
 }
 
-i{
-    color: white;
-    float:right;
-    display:none;
-    width: 35px;
-    height: 5px;
-    padding:15px 0;
-}
-
 .header-logo{
     float: left;
     font-size: 36px;
@@ -49,7 +40,7 @@ i{
     color:white;
     float:right;
     font-size:25px;
-    padding:25px 0;
+    padding:10px 0;
     display:none;
 }
 
