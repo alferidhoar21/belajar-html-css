@@ -27,15 +27,15 @@ header{
 }
 
 .menu-icon{
-    display:none;
     color: white;
     float:right;
+    display:none;
 }
 
 .header-logo{
     float: left;
     font-size: 36px;
-    padding:10px 20px;
+    padding:10px 40px;
 }
 
 .header-list{
@@ -46,9 +46,14 @@ header{
     color:white;
     text-decoration: none;
 }
-.header-list li{
-    padding:5px 20px;
-    float:right;
+.header-list a{
+  padding:20px 20px;
+  float:right;
+  opacity:0.8;
+}
+
+.header-list a:hover{
+  opacity:1;
 }
 
 .subscribe{
@@ -147,6 +152,7 @@ header{
     font-size: 24px;
     padding:5px 100px;
     padding-right:220px;
+    text-align: left;
   }
 
   .footer-list{
@@ -156,7 +162,7 @@ header{
   .footer-list li{
     float:right;
     padding:15px;
-    text-align: center;
+    text-align: right;
   }
 
   .footer-list a{
