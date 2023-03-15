@@ -30,6 +30,7 @@ header{
     color: white;
     float:right;
     display:none;
+    font-size:24px;
 }
 
 .header-logo{
