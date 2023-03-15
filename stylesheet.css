@@ -153,12 +153,11 @@ header{
     float:left;
     font-size: 24px;
     padding:5px 100px;
-    padding-right:220px;
     text-align: left;
   }
 
   .footer-list{
-    float:right;
+    display:flex;
     text-align: right;
   }
 
