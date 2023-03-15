@@ -10,7 +10,13 @@
         position:fixed;
         top:0;
     }
-   .subscribe{
+    
+    .header-list a, .subscribe {
        display:none;
     }
+    
+   .menu-icon{
+       display:block;
+  }
+    
 }
