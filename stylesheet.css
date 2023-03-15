@@ -27,11 +27,9 @@ header{
 }
 
 .menu-icon{
+    display:none;
     color: white;
     float:right;
-}
-span{
-    display:none;
 }
 
 .header-logo{
