@@ -45,6 +45,15 @@ i{
     float:left;
 }
 
+.menu-icon{
+    color:white;
+    float:right;
+    font-size:25px;
+    padding:25px 0;
+    display:none;
+}
+
+
 .header-list a, .subscribe{
     color:white;
     text-decoration: none;
