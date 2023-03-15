@@ -149,29 +149,6 @@ header{
     color:white;
   }
 
-  .container-footer p{
-    float:left;
-    font-size: 24px;
-    padding:5px 20px;
-    text-align: left;
-  }
 
-  .footer-list{
-    float:left;
-  }
-
-  .footer-list a{
-    font-size:12px;
-    text-align:right;
-    text-decoration: none;
-    color:white;
-    float:right;
-    padding:30px 15px;
-    opacity:0.8;
-  }
-
-  .footer-list a:hover{
-    opacity:1;
-  }
 
 
