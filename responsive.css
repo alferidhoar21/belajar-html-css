@@ -6,6 +6,10 @@
 
 @media all and (max-width:670px){
     .content{
-        width:25%;
+        width:100%;
+    }
+
+    footer{
+        text-align: center;
     }
 }
