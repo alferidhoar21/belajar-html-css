@@ -45,11 +45,7 @@ i{
     float:left;
 }
 
-span{
-    color:white;
-    float:right;
-    font-size:25px;
-    padding:25px 0;
+span .menu-icon{
     display:none;
 }
 
