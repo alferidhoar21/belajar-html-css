@@ -2,3 +2,7 @@
   header, footer{
     width:100%;
   }
+   .menu-icon{
+    display:block;
+  }
+}
