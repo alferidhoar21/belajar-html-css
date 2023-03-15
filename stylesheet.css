@@ -157,12 +157,12 @@ header{
   }
 
   .footer-list{
-    display:flex;
-    text-align: right;
+    float:left;
   }
 
   .footer-list a{
     font-size:12px;
+    text-align:right;
     text-decoration: none;
     color:white;
     float:right;
