@@ -30,7 +30,8 @@ header{
     color: white;
     float:right;
     display:none;
-    font-size:25px;
+    width: 35px;
+    height: 5px;
     padding:25px 0;
 }
 
