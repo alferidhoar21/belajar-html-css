@@ -6,4 +6,7 @@
     .header-list, .subscribe{
         display:none;
     }
+    .content{
+        width:50%;
+    }
 }
