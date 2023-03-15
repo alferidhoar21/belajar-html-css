@@ -1,0 +1,4 @@
+@media all and (max-width: 768px){
+  header, footer{
+    width:100%;
+  }
