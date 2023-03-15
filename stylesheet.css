@@ -26,13 +26,6 @@ header{
     font-weight: bold;
 }
 
-.menu-icon{
-  color:white;
-  float:right;
-  font-size:25px;
-  padding:25px 0;
-  display:none;
-}
 
 .header-logo{
     float: left;
