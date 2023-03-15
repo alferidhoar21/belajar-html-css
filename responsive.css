@@ -19,12 +19,21 @@
         margin:0;
         display:block;
     }
-    
-    footer{
-        text-align:center;
-}
-   
-    .footer-list a{
-        float:left;
-        color:black;
-}
+ 
+.container-footer p{
+    float:left;
+    font-size: 12px;
+    padding:5px;
+    padding-right:20px;
+    text-align: left;
+  }   
+.footer-list{
+    float:right;
+    text-align: right;
+  }
+
+  .footer-list a{
+    text-decoration: none;
+    color:white;
+    float:right;
+    }
