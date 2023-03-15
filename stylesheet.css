@@ -26,9 +26,11 @@ header{
     font-weight: bold;
 }
 
-.menu-icon:empty{
+.menu-icon{
     color: white;
     float:right;
+}
+span{
     display:none;
 }
 
