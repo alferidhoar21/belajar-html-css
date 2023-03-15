@@ -29,11 +29,10 @@
 .footer-list{
     float:right;
     text-align: right;
+    font-size:12px;
   }
 
   .footer-list a{
-    font-size:12px;
-    text-decoration: none;
     color:red;
     float:right;
     }
