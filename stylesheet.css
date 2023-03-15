@@ -26,6 +26,11 @@ header{
     font-weight: bold;
 }
 
+.menu-icon{
+    color: white;
+    float:right;
+    display:none;
+}
 
 .header-logo{
     float: left;
@@ -158,3 +163,5 @@ header{
     text-decoration: none;
     color:white;
   }
+
+
