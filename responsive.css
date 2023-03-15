@@ -10,4 +10,6 @@
         position:fixed;
         top:0;
     }
-   
+   .header-list{
+       display:none;
+    }
