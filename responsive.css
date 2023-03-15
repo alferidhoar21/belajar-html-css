@@ -5,4 +5,7 @@
    .header-list li , subscribe{
     display:none;
   }
+  .menu-icon{
+    display:block;
+  }
 }
