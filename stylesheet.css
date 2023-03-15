@@ -26,6 +26,12 @@ header{
     font-weight: bold;
 }
 
+.menu-icon{
+    color: white;
+    float:right;
+    display:none;
+}
+
 .header-logo{
     float: left;
     font-size: 36px;
@@ -157,5 +163,3 @@ header{
     text-decoration: none;
     color:white;
   }
-
-
