@@ -1,11 +1,6 @@
-@media all and (max-width: 768px){
-  header, footer{
-    width:100%;
-  }
-   .header-list li , subscribe{
-    display:none;
-  }
-  .menu-icon{
-    display:block;
-  }
+@media (max-width:1024px)
+{
+    .header-list, .subscribe{
+        display:none;
+    }
 }
