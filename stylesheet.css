@@ -26,7 +26,7 @@ header{
     font-weight: bold;
 }
 
-.menu-icon{
+.menu-icon:empty{
     color: white;
     float:right;
     display:none;
