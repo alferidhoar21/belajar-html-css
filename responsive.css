@@ -1,6 +1,6 @@
-@media (max-width:1024px)
+@media (max-width:1000px)
 {
-    .header-list, .subscribe{
+    .header-list a, .subscribe{
         display:none;
     }
 }
