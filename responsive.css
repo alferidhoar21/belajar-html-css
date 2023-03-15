@@ -8,7 +8,15 @@
     .content{
         width:100%;
     }
+    
+    .header-list{
+        display:none;
+    }
 
+    .menu-icon{
+        display:block;
+    }
+    
     footer{
         text-align: center;
     }
