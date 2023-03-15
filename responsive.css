@@ -16,27 +16,16 @@
         width:50%;
     }
 
-/*.container-footer p{
-    float:left;
-    font-size: 24px;
-    text-align: left;
-    padding:20px;
-  }   
-
-  .footer-list a{
-    font-size:12px;
-    color:white;
-    float:right;
-  }*/
-    .container-footer p{
-    float:left;
+.container-footer p{
+    display:flex;
     font-size: 24px;
     padding-bottom:20px;
     text-align: left;
+    
   }   
 
   .footer-list a{
     font-size:12px;
     color:white;
-    float:right;
-    }
+    display:flex;
+  }
