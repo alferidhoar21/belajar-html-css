@@ -2,7 +2,7 @@
   header, footer{
     width:100%;
   }
-   .menu-icon{
-    display:block;
+   .header-list li , subscribe{
+    display:none;
   }
 }
