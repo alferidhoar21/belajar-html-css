@@ -162,6 +162,7 @@ header{
   }
 
   .footer-list a{
+      font-size:12px;
     text-decoration: none;
     color:white;
     float:right;
